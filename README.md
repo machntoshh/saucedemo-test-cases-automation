@@ -11,7 +11,7 @@ End-to-end test suite for [SauceDemo](https://www.saucedemo.com) built with Cypr
 This project validates the core user flows of the SauceDemo e-commerce training app. Tests are organized using POM, separating page selectors and actions from test logic for maintainability and reuse.
 <br>
 <br>
-Here are the [Test Cases]([https://docs.google.com/spreadsheets/d/1UMnWvAOF2OpzOOz5nHlrzELAmiH5MqsEfbfydubofSo/edit?usp=sharing]) for better visualization
+Here are the [Test Cases](https://docs.google.com/spreadsheets/d/1UMnWvAOF2OpzOOz5nHlrzELAmiH5MqsEfbfydubofSo/edit?usp=sharing) for better visualization
 
 ---
 
